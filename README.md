@@ -18,7 +18,7 @@ PLEASE NOTE: This was developed for a bachelor thesis. So this is in experimenta
 - Scikit-Learn
 - Pandas
 ### Hand Extractor for extracting hands
-- make sure to use Python 3.8
+- make sure to use Python 3.8 - newer versions don't work
 - mediapipe (for hand detection)
 - numpy
 - math
