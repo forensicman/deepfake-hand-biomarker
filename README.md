@@ -1,6 +1,6 @@
 # deepfake-hand-biomarker
 - Keras-based binary classifier (fake/real) using hand extracts to spot diffusion-generated deepfake images
-- trained with dataset:
+- dataset:
   - 500 diffusion-generated hands (Midjourney Diffusion Model)
   - 500 real hands
 - includes "from-scratch" training and transfer learning training (VGG-16):
