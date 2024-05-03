@@ -11,7 +11,7 @@ PLEASE NOTE: This was developed for a bachelor thesis. So this is in experimenta
   - VGG-16 static (non-trainable layer)
 
 ## Requirements/Libraries
-- Jupyter Notebook
+- Jupyter Notebook IDE (ipynb files)
 - Anaconda Navigator 
 - Keras/Tensorflow
 - Matplotlib
